@@ -73,7 +73,7 @@ const getRandomEmployee = function (employeesArray) {
       randomEmployee.firstName +
       " " +
       randomEmployee.lastName +
-      " , our random drawing winner!"
+      ", our random drawing winner!"
   );
 };
 
